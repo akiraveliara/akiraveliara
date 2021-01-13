@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**ExaInsanity/ExaInsanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Exa, addicted to making more or less weird and more or less useless things, mainly in C# (because thats a great language).
+I'm also addicted to breaking Minecraft in as many ways possible :D
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Proof im addicted to commits](https://github-readme-stats.vercel.app/api?username=ExaInsanity&count_private=true&show_icons=true&theme=algolia)
+
+![using c#](https://github-readme-stats.vercel.app/api/top-langs/?username=ExaInsanity)
+
+I’m currently working on InsanityBot and a certain megalomaniac project
+How to reach me: ExaInsanity#1870 on discord, though i dont accept friend requests from random people
+Pronouns: any work though id personally prefer she/her
