@@ -8,7 +8,7 @@ I'm also addicted to breaking Minecraft in as many ways possible :D
 
 ![Proof im addicted to commits](https://github-readme-stats.vercel.app/api?username=ExaInsanity&count_private=true&show_icons=true&theme=midnight-purple)
 
-![using c#](https://github-readme-stats.vercel.app/api/top-langs/?username=ExaInsanity&theme=midnight-purple&langs_count=10)
+![using c#](https://github-readme-stats.vercel.app/api/top-langs/?username=ExaInsanity&theme=midnight-purple&langs_count=10&compact=true)
 
 **Projects:** I’m currently working on InsanityBot and a certain megalomaniac project
 
