@@ -2,7 +2,7 @@
 
 General Kenobi.
 
-I am Aki - also known as Lilith, Livia, Iris, ...; not afraid of reinventing the wheel and addicted to making more or less weird and more or less useless things, mainly in C# (because thats a great language).
+I am Aki - also known as Livia, Lilith, Iris, ...; not afraid of reinventing the wheel and addicted to making more or less weird and more or less useless things, mainly in C# (because thats a great language).
 I'm also addicted to breaking Minecraft in as many ways possible :D (not actually addicted but you get the point)
 
 
