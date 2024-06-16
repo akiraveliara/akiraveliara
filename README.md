@@ -12,4 +12,4 @@ Silvercrown is a pen name. I need to make this very clear.
 
 **Contact:** akiraveliara on discord, though i dont accept friend requests from random people; instead you should join the one of the discord servers i'm in. DSharpPlus for example.
 
-**Pronouns:** she/her
+**Pronouns:** she/they
