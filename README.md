@@ -2,8 +2,8 @@
 
 General Kenobi.
 
-I am Livia V. I. Silvercrown, online known as akiraveliara/aki for short; not afraid of reinventing the wheel and addicted to making more or less weird and more or less useless things, mainly in C# (because thats a great language).
-I'm also addicted to breaking Minecraft in as many ways possible :D (not actually addicted but you get the point)
+I am Livia V. I. A. Silvercrown, online known as akiraveliara/aki for short; not afraid of reinventing the wheel and addicted to making more or less weird and more or less useless things, mainly in C# (because thats a great language). I especially love working around performance in the lowest levels of C#/.NET :3
+Silvercrown is a pen name. I need to make this very clear.
 
 ![Proof im addicted to commits](https://github-readme-stats.vercel.app/api?username=akiraveliara&count_private=true&show_icons=true&theme=midnight-purple)
 
